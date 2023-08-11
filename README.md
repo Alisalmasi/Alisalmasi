@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alisalmasi
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning React
+- 👀 I’m interested in full stack Web development 
+- 🌱 I’m currently learning Go lang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
